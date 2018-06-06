@@ -1,0 +1,46 @@
+c:\users\sultan\documents\visual studio 2012\Projects\ExamResult\ExamResult\bin\Debug\ExamResult.exe.config
+c:\users\sultan\documents\visual studio 2012\Projects\ExamResult\ExamResult\bin\Debug\ExamResult.exe
+c:\users\sultan\documents\visual studio 2012\Projects\ExamResult\ExamResult\bin\Debug\ExamResult.pdb
+c:\users\sultan\documents\visual studio 2012\Projects\ExamResult\ExamResult\obj\Debug\ExamResult.csprojResolveAssemblyReference.cache
+c:\users\sultan\documents\visual studio 2012\Projects\ExamResult\ExamResult\obj\Debug\ExamResult.Form1.resources
+c:\users\sultan\documents\visual studio 2012\Projects\ExamResult\ExamResult\obj\Debug\ExamResult.Properties.Resources.resources
+c:\users\sultan\documents\visual studio 2012\Projects\ExamResult\ExamResult\obj\Debug\ExamResult.csproj.GenerateResource.Cache
+c:\users\sultan\documents\visual studio 2012\Projects\ExamResult\ExamResult\obj\Debug\ExamResult.exe
+c:\users\sultan\documents\visual studio 2012\Projects\ExamResult\ExamResult\obj\Debug\ExamResult.pdb
+c:\users\sultan\documents\visual studio 2012\Projects\ExamResult\ExamResult\obj\Debug\ExamResult.Form2.resources
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\bin\Debug\ExamResult.exe.config
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.exe
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.pdb
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\bin\Debug\ExamResult.exe
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\bin\Debug\ExamResult.pdb
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.csprojResolveAssemblyReference.cache
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.Form1.resources
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.Form2.resources
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.Properties.Resources.resources
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.csproj.GenerateResource.Cache
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.allstudent.resources
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.addstudent.resources
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.addResult.resources
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.AdminLogin.resources
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.StudentDashboard.resources
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.AddAdmin.resources
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.CourseRegistration.resources
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\bin\Debug\ExamResult.exe.manifest
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\bin\Debug\ExamResult.application
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.exe.manifest
+C:\Users\Anwarul\Desktop\ExamResult\ExamResult\obj\Debug\ExamResult.application
+F:\ExamResult\ExamResult\bin\Debug\ExamResult.exe.config
+F:\ExamResult\ExamResult\obj\Debug\ExamResult.exe
+F:\ExamResult\ExamResult\obj\Debug\ExamResult.pdb
+F:\ExamResult\ExamResult\obj\Debug\ExamResult.csprojResolveAssemblyReference.cache
+F:\ExamResult\ExamResult\obj\Debug\ExamResult.AddAdmin.resources
+F:\ExamResult\ExamResult\obj\Debug\ExamResult.addResult.resources
+F:\ExamResult\ExamResult\obj\Debug\ExamResult.addstudent.resources
+F:\ExamResult\ExamResult\obj\Debug\ExamResult.AdminLogin.resources
+F:\ExamResult\ExamResult\obj\Debug\ExamResult.allstudent.resources
+F:\ExamResult\ExamResult\obj\Debug\ExamResult.CourseRegistration.resources
+F:\ExamResult\ExamResult\obj\Debug\ExamResult.Form1.resources
+F:\ExamResult\ExamResult\obj\Debug\ExamResult.Form2.resources
+F:\ExamResult\ExamResult\obj\Debug\ExamResult.Properties.Resources.resources
+F:\ExamResult\ExamResult\obj\Debug\ExamResult.StudentDashboard.resources
+F:\ExamResult\ExamResult\obj\Debug\ExamResult.csproj.GenerateResource.Cache
